@@ -1,6 +1,6 @@
 # pir-motion-sensor
 # automatic-door-closer
-
+![PIR Motion Sensor](pir-motion-sensor-gate-close.png)
 An intelligent, automated door control system powered by an Arduino Uno, a PIR motion sensor for human detection, and an LCD status display.
 
 ## Overview
