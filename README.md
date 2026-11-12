@@ -6,6 +6,7 @@ An intelligent, automated door control system powered by an Arduino Uno, a PIR m
 ## Overview
 
 This project automates door operation by detecting when someone approaches. When the PIR motion sensor senses a body, the Arduino instantly updates the LCD screen to show a detection status message and triggers the door mechanism to open.
+![PIR Motion Senor](pir-motion-sensor-gate-open.png)
 
 ## Features
 
